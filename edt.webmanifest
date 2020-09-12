@@ -1,0 +1,15 @@
+{
+  "background_color": "green",
+  "description": "Emploi du Temps pour les CMI MI-Info.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    }
+  ],
+  "name": "Emploi du Temps",
+  "short_name": "EDT",
+  "start_url": "/edt.html"
+}
