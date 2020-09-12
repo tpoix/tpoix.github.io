@@ -1137,11 +1137,11 @@ function fillEDT(){
                 var aa = a[i].hours.filter(cours => cours.day === todayStr);
                 for(let k=0 ; k<aa.length ; k++){ 
                     console.log("#############" + (todayDate.getDay()));
-                    document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div cla style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark':a[i].color}">
+                    document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div cla style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
                     <div class="p-2">
-                        <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto text-muted">${aa[k].room}</small></h5>
-                        <h6 id="prof" class="card-subtitle mb-2 text-muted">${a[i].prof}</h6>
-                        ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-muted">Annulé</p>':''}
+                        <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
+                        <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
+                        ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
                     </div>
                 </div>`;
                 }
@@ -1173,11 +1173,11 @@ function fillEDT(){
                     for(let i=0; i< a.length ; i++){
                         var aa = a[i].hours.filter(cours => cours.day === todayStr);
                         for(let k=0 ; k<aa.length ; k++){ 
-                            document.getElementById(`day${j+1}`).innerHTML += `<div cla style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark':a[i].color}">
+                            document.getElementById(`day${j+1}`).innerHTML += `<div cla style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
                             <div class="p-2">
-                                <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto text-muted">${aa[k].room}</small></h5>
-                                <h6 id="prof" class="card-subtitle mb-2 text-muted">${a[i].prof}</h6>
-                                ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-muted">Annulé</p>':''}
+                                <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
+                                <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
+                                ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
                             </div>
                         </div>`;
                         }
