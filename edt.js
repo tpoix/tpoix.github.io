@@ -1069,6 +1069,36 @@ function month_itostr(x){
     }
 }
 
+window.addEventListener('beforeinstallprompt', function(event) {
+    // not show the default browser install app prompt
+    event.preventDefault();
+  
+    addToHomeScreen();
+  
+    // save the event to use it later
+    // (it has the important prompt method and userChoice property)
+    window.promptEvent = event;
+  });
+
+  function addToHomeScreen() {
+    // show the install app prompt
+    window.promptEvent.prompt();
+  
+    // handle the Decline/Accept choice of the user
+    window.promptEvent.userChoice.then(function(choiceResult) {
+      // hide the prompt banner here
+      // …
+  
+      if (choiceResult.outcome === 'accepted') {
+        console.info('mm User accepted the A2HS prompt');
+      } else {
+        console.info('mm User dismissed the A2HS prompt');
+      }
+  
+      window.promptEvent = null;
+    });
+  }
+
 function init(){
     let today = new Date();
     document.getElementById("inputDate").value = `${today.getFullYear()}-${(today.getMonth()+1 < 10)?"0":""}${today.getMonth()+1}-${today.getDate()}`;
