@@ -1,5 +1,6 @@
 {
   "background_color": "green",
+  "theme_color": "black",
   "description": "Emploi du Temps pour les CMI MI-Info.",
   "display": "fullscreen",
   "icons": [
