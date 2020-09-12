@@ -1088,7 +1088,6 @@ function init(){
 function changeDate(){
     let isMobile = window.matchMedia("only screen and (max-width: 600px)").matches;
     if(isMobile){
-        console.log(document.getElementById(`totalgrid`).firstChild.nextSibling.nextSibling.nextSibling);
         document.getElementById(`totalgrid`).firstChild.nextSibling.nextSibling.nextSibling.remove();
     }
     let inputStr = document.getElementById("inputDate").value;
@@ -1120,7 +1119,6 @@ function fillEDT(){
     }
     let isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
     if(isMobile){
-        console.log("###########  MOBILE  #########")
         let today = document.getElementById("inputDate").value;
         let todayDate = new Date(today);
 
@@ -1131,12 +1129,10 @@ function fillEDT(){
         </div>`;
         let todayStr = `${todayDate.getFullYear()}-${(todayDate.getMonth()+1 < 10)?"0"+(todayDate.getMonth()+1):todayDate.getMonth()+1}-${(todayDate.getDate()<10)?"0":""}${todayDate.getDate()}`
         let a = ues.filter(cours => cours.hours.find(hour => hour.day === todayStr));
-        console.log(a);
         if(a.length !== 0){
             for(let i=0; i< a.length ; i++){
                 var aa = a[i].hours.filter(cours => cours.day === todayStr);
                 for(let k=0 ; k<aa.length ; k++){ 
-                    console.log("#############" + (todayDate.getDay()));
                     document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div cla style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
                     <div class="p-2">
                         <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
@@ -1153,22 +1149,13 @@ function fillEDT(){
         let todayDate = getMonday(today);
         if(todayDate.getDay()<=5){
             for(let j=0; j<5 ; j++){
-                console.log("j = " + j);
+
                 let tomorrow = new Date(todayDate);
                 tomorrow.setDate(tomorrow.getDate()+j);
                 let todayStr = `${tomorrow.getFullYear()}-${(tomorrow.getMonth()+1 < 10)?"0"+(tomorrow.getMonth()+1):tomorrow.getMonth()+1}-${(tomorrow.getDate()<10)?"0":""}${tomorrow.getDate()}`
-                console.log(todayStr);
-                
-                /*let todayMonth = (todayDate.getDate()-(todayDate.getDay()-j)< 1)?todayDate.getMonth():todayDate.getMonth()+1;
 
-                let todayDay = (todayDate.getDate()-(todayDate.getDay()-j)< 1)?getDaysInMonth(todayDate.getMonth(),todayDate.getFullYear())+1-j:todayDate.getDate()-(todayDate.getDay()-j);
-                let daynb = (todayDate.getDate()-(todayDate.getDay()-j)< 1)?todayDate.getDay()-j:j;
-                //console.log("daynb = " + daynb);
-                let todayStr = `${todayDate.getFullYear()}-${(todayMonth < 10)?"0"+(todayMonth):todayMonth}-${(todayDay<10)?"0":""}${todayDay}`;
-                //console.log("j = " + j + " " + todayMonth + " " + todayStr);
-                //console.log("ptn = " + todayDay +" " + getDaysInMonth(todayDate.getMonth(),todayDate.getFullYear()));*/
+                
                 let a = ues.filter(cours => cours.hours.find(hour => hour.day === todayStr));
-                console.log(a);
                 if(a.length !== 0){
                     for(let i=0; i< a.length ; i++){
                         var aa = a[i].hours.filter(cours => cours.day === todayStr);
@@ -1184,27 +1171,6 @@ function fillEDT(){
                     }
                 }
             }
-            /*for(let j=todayDate.getDay()+1; j<6 ; j++){
-                let todayMonth = (todayDate.getDate()-(todayDate.getDay()-j)> getDaysInMonth(todayDate.getMonth()+1,todayDate.getFullYear()))?todayDate.getMonth()+2:todayDate.getMonth()+1;
-                let todayDay = (todayDate.getDate()-(todayDate.getDay()-j)> getDaysInMonth(todayDate.getMonth()+1,todayDate.getFullYear()))?0-(todayDate.getDay()-j):todayDate.getDate()-(todayDate.getDay()-j);
-                let todayStr = `${todayDate.getFullYear()}-${(todayMonth < 10)?"0"+(todayMonth):todayMonth}-${(todayDay<10)?"0":""}${todayDay}`;
-                console.log(todayMonth + " " + todayStr);
-                console.log(todayDate.getDate()-(todayDate.getDay()-j) +" " + getDaysInMonth(todayDate.getMonth()+1,todayDate.getFullYear()));
-                let a = ues.filter(cours => cours.hours.find(hour => hour.day === todayStr));
-                if(a.length !== 0){
-                    for(let i=0; i< a.length ; i++){
-                        var aa = a[i].hours.filter(cours => cours.day === todayStr);
-                        for(let k=0 ; k<aa.length ; k++){ 
-                            document.getElementById(`day${j}`).innerHTML += `<div style="grid-row: ${aa[k].hour}" class="hour card ${a[i].color}">
-                            <div class="p-2">
-                                <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto text-muted">${aa[k].room}</small></h5>
-                                <h6 id="prof" class="card-subtitle mb-2 text-muted">${a[i].prof}</h6>
-                            </div>
-                        </div>`;
-                        }
-                    }
-                }
-            }*/
         }
     }
 }
