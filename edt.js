@@ -2,7 +2,7 @@
              DATA
 ##############################*/
 
-let updateTime = "11/09/2020";
+let updateTime = "14/09/2020";
 
 let ues = [
 
@@ -951,7 +951,7 @@ let ues = [
     /*#### Noel ####*/
     {
         name: "Joyeux Noël !",
-        prof: "",
+        prof: "Père Noël",
         color: "rainbow",
         hours: [
             {
