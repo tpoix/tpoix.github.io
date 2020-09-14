@@ -951,7 +951,7 @@ let ues = [
     /*#### Noel ####*/
     {
         name: "Joyeux Noël !",
-        prof: "",
+        prof: "Père Noël",
         color: "rainbow",
         hours: [
             {
