@@ -984,7 +984,7 @@ let ues = [
         hours: [
             {
                 day: "2020-09-02",
-                hour: "1 / span 3",
+                hour: "5 / span 3",
                 room: "Chez vous"
             },
             {
