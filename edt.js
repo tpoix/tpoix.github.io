@@ -983,11 +983,6 @@ let ues = [
         color: "rainbow",
         hours: [
             {
-                day: "2020-09-02",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
                 day: "2020-11-11",
                 hour: "1 / span 3",
                 room: "Chez vous"
