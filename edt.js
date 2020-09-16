@@ -556,7 +556,8 @@ let ues = [
             {
                 day: "2020-09-17",
                 hour: "2 / span 2",
-                room: "Amphi F"
+                room: "Amphi F",
+                cancel: true
             },
             {
                 day: "2020-09-24",
