@@ -2,7 +2,7 @@
              DATA
 ##############################*/
 
-let updateTime = "14/09/2020";
+let updateTime = "16/09/2020";
 
 let ues = [
 
@@ -477,27 +477,27 @@ let ues = [
             {
                 day: "2020-09-16",
                 hour: "2",
-                room: "Salle Estaing"
+                room: "Salle Anie/Estaing"
             },
             {
                 day: "2020-09-23",
                 hour: "2",
-                room: "Salle Estaing"
+                room: "Salle Anie/Estaing"
             },
             {
                 day: "2020-09-30",
                 hour: "2",
-                room: "Salle Estaing"
+                room: "Salle Anie/Estaing"
             },
             {
                 day: "2020-10-07",
                 hour: "2",
-                room: "Salle Estaing"
+                room: "Salle 26"
             },
             {
                 day: "2020-10-14",
                 hour: "2",
-                room: "Salle Estaing"
+                room: "Salle 26"
             },
             {
                 day: "2020-10-19",
