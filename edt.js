@@ -50,7 +50,8 @@ let ues = [
             {
                 day: "2020-09-22",
                 hour: "5",
-                room: "Amphi E"
+                room: "Amphi E",
+                nogr: true
             },
             {
                 day: "2020-09-23",
@@ -338,12 +339,14 @@ let ues = [
             {
                 day: "2020-09-25",
                 hour: "1",
-                room: "Salle Ayous"
+                room: "Salle Ayous",
+                nogr: true
             },
             {
                 day: "2020-09-25",
                 hour: "5",
-                room: "Salle Ayous"
+                room: "Salle Ayous",
+                nogr: true
             },
             {
                 day: "2020-10-02",
@@ -1165,12 +1168,15 @@ function fillEDT(){
             for(let i=0; i< a.length ; i++){
                 var aa = a[i].hours.filter(cours => cours.day === todayStr);
                 for(let k=0 ; k<aa.length ; k++){ 
-                    document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
+                    document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${aa[k].hour}; opacity: ${(aa[k].nogr)?0.5:1};" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
+                    ${(aa[k].nogr)?'<div class="nogr" style="height: 100%">':''}
                     <div class="p-2">
                         <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
                         <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
                         ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
+                        ${(aa[k].nogr)?'<p class="card-subtitle mb-2" style="opacity:1">Autre groupe</p>':''}
                     </div>
+                    ${(aa[k].nogr)?'</div>':''}
                 </div>`;
                 }
             }
@@ -1192,12 +1198,15 @@ function fillEDT(){
                     for(let i=0; i< a.length ; i++){
                         var aa = a[i].hours.filter(cours => cours.day === todayStr);
                         for(let k=0 ; k<aa.length ; k++){ 
-                            document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${aa[k].hour}" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
+                            document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${aa[k].hour}; opacity: ${(aa[k].nogr)?0.5:1};" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
+                            ${(aa[k].nogr)?'<div class="nogr" style="height: 100%">':''}
                             <div class="p-2">
                                 <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
                                 <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
                                 ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
+                                ${(aa[k].nogr)?'<p class="card-subtitle mb-2" style="opacity:1">Autre groupe</p>':''}
                             </div>
+                            ${(aa[k].nogr)?'</div>':''}
                         </div>`;
                         }
                     }
