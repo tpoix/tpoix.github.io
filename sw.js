@@ -53,3 +53,11 @@ self.addEventListener('install', function(e) {
       });
     });
   }
+
+  import {registerRoute} from 'workbox-routing';
+import {NetworkFirst} from 'workbox-strategies';
+
+registerRoute(
+  ({url}) => url.pathname.startsWith('/social-timeline/'),
+  new NetworkFirst()
+);
