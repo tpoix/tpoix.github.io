@@ -58,14 +58,14 @@ let ues = [
                 room: "Amphi G"
             },
             {
-                day: "2020-10-07",
-                hour: "5",
-                room: "Amphi E"
+                day: "2020-10-05",
+                hour: "6",
+                room: "Amphi G"
             },
             {
                 day: "2020-10-12",
                 hour: "6",
-                room: "Amphi F"
+                room: "Amphi G"
             },
             {
                 day: "2020-10-13",
@@ -75,7 +75,7 @@ let ues = [
             {
                 day: "2020-10-14",
                 hour: "5",
-                room: "Amphi E"
+                room: "Amphi G"
             },
             {
                 day: "2020-10-20",
