@@ -106,13 +106,15 @@
                 mix-blend-mode: color-burn;
             }
             #ue{
-                font-size: 16px;
+                font-size: 14px;
                 display: flex;
+                margin-bottom: 0px;
             }
             .hours{
                 grid-auto-rows: 14.285%;
                 margin-right: 10px;
-                color: gray
+                color: gray;
+                overflow:hidden;
             }
 
             .hours>*{
@@ -124,7 +126,7 @@
                 display: flex;
             }
             #footer{
-                position: absolute;
+                position: fixed;
                 top:0;
                 right: 0;
                 width: max-content;
@@ -158,7 +160,7 @@
         </style>
     </head>
 
-    <!-- <body onload="init()" onresize="changeDate()">
+    <body>
         <div id="title">
             <h1 id="cursus" class="text-white mb-0">CMI MI-Info L3</h1>
             <h5 id="date" class="text-secondary mb-1">date</h5>
@@ -167,7 +169,7 @@
                     <div class="input-group-prepend" >
                     <label class="input-group-text text-white" style="background-color: rgb(10,10,10);">Date</label>
                     </div>
-                    <input type="date" onchange="changeDate()" class="form-control bg-dark text-white" id="inputDate" aria-label="Sizing example input" aria-describedby="Champ de date">
+                    <input type="date" class="form-control bg-dark text-white" id="inputDate" aria-label="Sizing example input" aria-describedby="Champ de date">
                 </div>
             </div>
         </div>
@@ -232,16 +234,7 @@
             </div>
         </div>
 
-        <div id="footer">
-            <p class="ml-auto mr-4 text-white" id="updateDate">MAJ : </p>
-        </div>
 
-        <script src="edt.js"></script> -->
-        <body onload="window.location.href = `https://steeunivpau-edt2021.hyperplanning.fr/hp/etudiants`;" style="display: flex; height: 100%; width: 100%;"> 
-            <div style="width: max-content; height: max-content;" class="m-auto">
-                <h2 class="text-white mx-1 text-center" >
-                Arrêté tant que le stade 2 est en place.
-                </h2>
-            </div>
-        </body>
+        <script src="edt.js"></script>
+
     </body> 

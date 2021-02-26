@@ -2,1003 +2,158 @@
              DATA
 ##############################*/
 
-let updateTime = "19/09/2020";
 
-let ues = [
+var data = [];  
+function monCode() 
+{ 
+   if (req.readyState == 4 && this.status == 200) 
+   { 
+        data = JSON.parse(this.responseText); 
+        main(data);
+   }
+} 
 
-    /*#### GRAPHES ####*/
-    {
-        name: "Graphes",
-        prof: "Ouriachi K.",
-        color: "yellow",
-        hours: [
-            {
-                day: "2020-09-07",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-08",
-                hour: "5",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-09",
-                hour: "5",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-14",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-15",
-                hour: "5",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-16",
-                hour: "5",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-30",
-                hour: "6",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-01",
-                hour: "1",
-                room: "Amphi H"
-            },
-            {
-                day: "2020-10-07",
-                hour: "6",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-05",
-                hour: "6",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-12",
-                hour: "6",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-13",
-                hour: "5",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-10-14",
-                hour: "5",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-20",
-                hour: "5",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-12-16",
-                hour: "5",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-03",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-11-04",
-                hour: "5 / span 2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-10",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-11-12",
-                hour: "1",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-17",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-11-24",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-11-25",
-                hour: "5",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-12-01",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-12-02",
-                hour: "5",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-12-08",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-            {
-                day: "2020-12-09",
-                hour: "5",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-12-15",
-                hour: "5",
-                room: "Salle Estaing"
-            },
-        ]
-    },
 
-    /*#### Anglais ####*/
-    {
-        name: "Anglais LV1",
-        prof: "De Nodrest S.",
-        color: "red",
-        hours: [
-            {
-                day: "2020-09-08",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-09-15",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-09-22",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-09-29",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-10-06",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-10-13",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-10-20",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-03",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-10",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-17",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-24",
-                hour: "2",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-12-01",
-                hour: "2",
-                room: "Salle 10"
-            },
-        ]
-    },
+function hour_torow(x){
+    switch(x){
+        case "08":
+            return(1);
+            break;
+        case "09":
+        case "10":
+            return(2);
+            break;
+        case "11":
+        case "12":
+            return(3);
+            break;
+        case "14":
+            return(5);
+            break;
+        case "15":
+        case "16":
+            return(6);
+            break;
+        case "17":
+            return(7);
+            break;
+        default:
+            return(8);
+            break;
+    }
+}
 
-    /*#### TOO ####*/
-    {
-        name: "Technologie Orientée Objet",
-        prof: "Barbier F.",
-        color: "blue",
-        hours: [
-            {
-                day: "2020-09-08",
-                hour: "3",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-08",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-15",
-                hour: "3",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-15",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-22",
-                hour: "3",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-22",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-29",
-                hour: "3",
-                room: "Amphi E"
-            },
-            {
-                day: "2020-09-29",
-                hour: "6",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-10-06",
-                hour: "3",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-10-06",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-10-13",
-                hour: "3",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-10-13",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-10-19",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-10-20",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-11-03",
-                hour: "3",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-11-03",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-11-09",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-11-10",
-                hour: "3",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-11-10",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-11-17",
-                hour: "6",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-09-18",
-                hour: "1",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-09-18",
-                hour: "5",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-09-25",
-                hour: "1",
-                room: "Salle Ayous",
-                nogr: true
-            },
-            {
-                day: "2020-09-25",
-                hour: "5",
-                room: "Salle Ayous",
-                nogr: true
-            },
-            {
-                day: "2020-10-02",
-                hour: "1",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-02",
-                hour: "5",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-05",
-                hour: "3",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-06",
-                hour: "5",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-09",
-                hour: "5",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-16",
-                hour: "1",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-16",
-                hour: "5",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-20",
-                hour: "1",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-10-20",
-                hour: "3",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-11-02",
-                hour: "2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-06",
-                hour: "5 / span 2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-10",
-                hour: "7",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-13",
-                hour: "5 / span 2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-27",
-                hour: "5 / span 2",
-                room: "Salle Anie"
-            },
-        ]
-    },
 
-    /*#### CAI ####*/
-    {
-        name: "Conception d'Appli Internet",
-        prof: "Barbier F.",
-        color: "orange",
-        hours: [
-            {
-                day: "2020-09-09",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-16",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-23",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-30",
-                hour: "1",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-10-07",
-                hour: "1",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-10-14",
-                hour: "1",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-10-21",
-                hour: "1",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-11-03",
-                hour: "7",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-11-18",
-                hour: "1",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-11-25",
-                hour: "1",
-                room: "Amphi C"
-            },
-            {
-                day: "2020-09-16",
-                hour: "2",
-                room: "Salle Anie/Estaing"
-            },
-            {
-                day: "2020-09-23",
-                hour: "2",
-                room: "Salle Anie/Estaing"
-            },
-            {
-                day: "2020-09-30",
-                hour: "2",
-                room: "Salle Anie/Estaing"
-            },
-            {
-                day: "2020-10-07",
-                hour: "2",
-                room: "Salle 26"
-            },
-            {
-                day: "2020-10-14",
-                hour: "2",
-                room: "Salle 26"
-            },
-            {
-                day: "2020-10-19",
-                hour: "2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-10-21",
-                hour: "2 / span 2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-02",
-                hour: "1",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-11-06",
-                hour: "3",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-09",
-                hour: "3",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-11-16",
-                hour: "2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-18",
-                hour: "2 / span 2",
-                room: "Salle Anie"
-            },
-            {
-                day: "2020-11-25",
-                hour: "2 / span 2",
-                room: "Salle Anie"
-            },
-        ]
-    },
 
-    /*#### Logique ####*/
-    {
-        name: "Logique",
-        prof: "Hameurlain N.",
-        color: "cyan",
-        hours: [
-            {
-                day: "2020-09-10",
-                hour: "2 / span 2",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-09-17",
-                hour: "2 / span 2",
-                room: "Amphi F",
-                cancel: true
-            },
-            {
-                day: "2020-09-24",
-                hour: "2 / span 2",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-10-01",
-                hour: "2 / span 2",
-                room: "Amphi F"
-            },
-            {
-                day: "2020-10-22",
-                hour: "2 / span 2",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-11-12",
-                hour: "2 / span 2",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-11-19",
-                hour: "2 / span 2",
-                room: "Amphi D"
-            },
-            {
-                day: "2020-10-08",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-10-09",
-                hour: "3",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-10-15",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-10-16",
-                hour: "3",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-05",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-11-13",
-                hour: "3",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-20",
-                hour: "3",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-11-26",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-11-27",
-                hour: "3",
-                room: "Salle 10"
-            },
-            {
-                day: "2020-12-03",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-12-10",
-                hour: "2",
-                room: "Salle 20"
-            },
-            {
-                day: "2020-12-17",
-                hour: "2",
-                room: "Salle 20"
-            },
-        ]
-    },
+var req = new XMLHttpRequest();
+req.open("GET", "edtdata.json", true); 
+req.onreadystatechange = monCode;   // la fonction de prise en charge
+req.send(); 
 
-    /*#### Base de Données ####*/
-    {
-        name: "Base de données",
-        prof: "Teste A.",
-        color: "purple",
-        hours: [
-            {
-                day: "2020-09-10",
-                hour: "5",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-09-11",
-                hour: "2",
-                room: "Amphi G",   
-            },
-            {
-                day: "2020-09-11",
-                hour: "5",
-                room: "Amphi G",
-                cancel: true
-            },
-            {
-                day: "2020-09-18",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-09-18",
-                hour: "6",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-09-25",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-02",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-09",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-16",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-10-23",
-                hour: "2",
-                room: "Amphi G"
-            },
-            {
-                day: "2020-09-25",
-                hour: "6",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-10-02",
-                hour: "6",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-10-09",
-                hour: "6",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-10-22",
-                hour: "5",
-                room: "Salle 25bis"
-            },
-            {
-                day: "2020-11-06",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-11-13",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-11-20",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-11-27",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-12-04",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-12-04",
-                hour: "5 / span 2",
-                room: "Salle Ayous"
-            },
-            {
-                day: "2020-12-11",
-                hour: "2",
-                room: "Salle 13"
-            },
-            {
-                day: "2020-12-11",
-                hour: "5 / span 2",
-                room: "Salle 30/31"
-            },
-            {
-                day: "2020-12-18",
-                hour: "5 / span 2",
-                room: "Salle Anie/Ayous"
-            },
-        ]
-    },
+function init(data){
+    let today = new Date();
+    document.getElementById("inputDate").value = `${today.getFullYear()}-${(today.getMonth()+1 < 10)?"0":""}${today.getMonth()+1}-${today.getDate()}`;
+    let dateStr = `${today.getDate()} ${month_itostr(today.getMonth())} ${today.getFullYear()}`;
+    document.getElementById("date").innerHTML = dateStr;
 
-    /*#### Gestion ####*/
-    {
-        name: "Outils de gestion",
-        prof: "Cencetti A.",
-        color: "bg-secondary",
-        hours: [
-            {
-                day: "2020-09-17",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-10-01",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-10-15",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-11-05",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-11-12",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-12-03",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-        ]
-    },
+    let isMobile = window.matchMedia("only screen and (max-width: 600px)").matches;
+    if(isMobile){
+        console.log("###########  MOBILE  #########")
+        for(let i = 1 ; i<6 ; i++){
+            document.getElementById(`day${i}`).remove();
+        }
+    }
+    fillEDT(data);
+}
 
-    /*#### Prépa à l'international ####*/
-    {
-        name: "Prépa à l'international",
-        prof: "Smith L.",
-        color: "bg-secondary",
-        hours: [
-            {
-                day: "2020-09-24",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-10-08",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-11-19",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-11-26",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-12-10",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-            {
-                day: "2020-12-17",
-                hour: "5 / span 2",
-                room: "Salle 17"
-            },
-        ]
-    },
+function fillEDT(data){
+    var elements = document.getElementsByClassName("hour");
+    while(elements.length > 0){
+        elements[0].parentNode.removeChild(elements[0]);
+    }
+    let isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
+    if(isMobile){
+        let today = document.getElementById("inputDate").value;
+        let todayDate = new Date(today);
 
-    /*#### Vacances ####*/
-    {
-        name: "Vacances",
-        prof: "Reposez-vous bien !",
-        color: "rainbow",
-        hours: [
-            {
-                day: "2020-10-26",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-26",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-27",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-27",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-28",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-28",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-29",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-29",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-30",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-10-30",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-21",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-22",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-23",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-24",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-28",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-29",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-30",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-12-31",
-                hour: "1 / span 7",
-                room: "Chez vous"
-            },
-        ]
-    },
+        document.getElementById("totalgrid").innerHTML += `<div id="day${todayDate.getDay()}" class="day"  >
+            <div id="daytitle">
+                <h5 class="text-white text-center">${day_itostr(todayDate.getDay())}</h5>
+            </div>
+        </div>`;
+        let todayStr = `${todayDate.getFullYear()}-${(todayDate.getMonth()+1 < 10)?"0"+(todayDate.getMonth()+1):todayDate.getMonth()+1}-${(todayDate.getDate()<10)?"0":""}${todayDate.getDate()}`
+        let a = data.filter(semaine => semaine.find(cours => cours.date === todayStr));
+        if(typeof a[0] !== 'undefined'){
+            if(a[0].length !== 0){
+                for(let i=0; i< a[0].length ; i++){
+                    var aa = a[0][i];
+                    console.log("aa = " + aa);
+                    let infos = "";
+                    for(let j=0 ; j< aa.infostext.length ; j++){
+                        infos += `<h5 id="ue">${aa.infostext[j]}</h5>`;
+                    }
+                    if(aa.date === todayStr){ 
+                        document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])}; background-color:${aa.color}" class="hour card">
+                        <div style="overflow: auto;" class="p-2">
+                            ${infos}
+                        </div>
+                    </div>`;
+                    }
+                }
+            }
+        }
+    }
+    else{
+        let today = document.getElementById("inputDate").value;
+        let todayDate = getMonday(today);
+        if(todayDate.getDay()<=5){
+            for(let j=0; j<5 ; j++){
 
-    /*#### Noel ####*/
-    {
-        name: "Joyeux Noël !",
-        prof: "Père Noël",
-        color: "rainbow",
-        hours: [
-            {
-                day: "2020-12-25",
-                hour: "1 / span 7",
-                room: "Au sapin"
-            },
-        ]
-    },
+                let tomorrow = new Date(todayDate);
+                tomorrow.setDate(tomorrow.getDate()+j);
+                let todayStr = `${tomorrow.getFullYear()}-${(tomorrow.getMonth()+1 < 10)?"0"+(tomorrow.getMonth()+1):tomorrow.getMonth()+1}-${(tomorrow.getDate()<10)?"0":""}${tomorrow.getDate()}`
 
-    /*#### Noel ####*/
-    {
-        name: "Bonne année !",
-        prof: "et bonne santé !",
-        color: "rainbow",
-        hours: [
-            {
-                day: "2021-01-01",
-                hour: "1 / span 7",
-                room: ""
-            },
-        ]
-    },
+                console.log(todayStr);
+                let a = data.filter(semaine => semaine.find(cours => cours.date === todayStr));
+                console.log(typeof a[0]);
+                if(typeof a[0] !== 'undefined'){
+                    if(a[0].length !== 0){
+                        for(let i=0; i< a[0].length ; i++){
+                            var aa = a[0][i];
+                            console.log("aa = " + aa);
+                            let infos = "";
+                            for(let j=0 ; j< aa.infostext.length ; j++){
+                                infos += `<h5 id="ue">${aa.infostext[j]}</h5>`;
+                            }
+                            if(aa.date === todayStr){ 
+                                document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])}; background-color:${aa.color}" class="hour card">
+                                <div style="overflow: auto  ;" class="p-2">
+                                    ${infos}
+                                </div>
+                            </div>`;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 
-    /*#### Férié ####*/
-    {
-        name: "Férié",
-        prof: "Pas pour longtemps",
-        color: "rainbow",
-        hours: [
-            {
-                day: "2020-11-11",
-                hour: "1 / span 3",
-                room: "Chez vous"
-            },
-            {
-                day: "2020-11-11",
-                hour: "5 / span 3",
-                room: "Chez vous"
-            },
-        ]
-    },
+function main(data) {
+    init(data);
+    document.body.addEventListener("resize", function(){
+        changeDate(data);
+    });
+    console.log(document.getElementById("inputDate"));
+    document.getElementById("inputDate").addEventListener("change", function(){
+        console.log(data);
+        changeDate(data);
+    });
+}
 
-]
+
+
 
 
 /*############################
@@ -1073,53 +228,8 @@ function month_itostr(x){
 }
 
 
-window.addEventListener('beforeinstallprompt', function(event) {
-    // not show the default browser install app prompt
-    event.preventDefault();
-  
-    addToHomeScreen();
-  
-    // save the event to use it later
-    // (it has the important prompt method and userChoice property)
-    window.promptEvent = event;
-  });
 
-  function addToHomeScreen() {
-    // show the install app prompt
-    window.promptEvent.prompt();
-  
-    // handle the Decline/Accept choice of the user
-    window.promptEvent.userChoice.then(function(choiceResult) {
-      // hide the prompt banner here
-      // …
-  
-      if (choiceResult.outcome === 'accepted') {
-        console.info('mm User accepted the A2HS prompt');
-      } else {
-        console.info('mm User dismissed the A2HS prompt');
-      }
-  
-      window.promptEvent = null;
-    });
-  }
-
-function init(){
-    let today = new Date();
-    document.getElementById("inputDate").value = `${today.getFullYear()}-${(today.getMonth()+1 < 10)?"0":""}${today.getMonth()+1}-${today.getDate()}`;
-    let dateStr = `${today.getDate()} ${month_itostr(today.getMonth())} ${today.getFullYear()}`;
-    document.getElementById("date").innerHTML = dateStr;
-    document.getElementById("updateDate").innerHTML += updateTime;
-    let isMobile = window.matchMedia("only screen and (max-width: 600px)").matches;
-    if(isMobile){
-        console.log("###########  MOBILE  #########")
-        for(let i = 1 ; i<6 ; i++){
-            document.getElementById(`day${i}`).remove();
-        }
-    }
-    fillEDT();
-}
-
-function changeDate(){
+function changeDate(data){
     let isMobile = window.matchMedia("only screen and (max-width: 600px)").matches;
     if(isMobile){
         document.getElementById(`totalgrid`).firstChild.nextSibling.nextSibling.nextSibling.remove();
@@ -1128,7 +238,7 @@ function changeDate(){
     let day = new Date(inputStr);
     let dateStr = `${day.getDate()} ${month_itostr(day.getMonth())} ${day.getFullYear()}`;
     document.getElementById("date").innerHTML = dateStr;
-    fillEDT();
+    fillEDT(data);
 }
 
 var getDaysInMonth = function(month,year) {
@@ -1146,71 +256,4 @@ function getMonday(d) {
 
 
 
-function fillEDT(){
-    var elements = document.getElementsByClassName("hour");
-    while(elements.length > 0){
-        elements[0].parentNode.removeChild(elements[0]);
-    }
-    let isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
-    if(isMobile){
-        let today = document.getElementById("inputDate").value;
-        let todayDate = new Date(today);
 
-        document.getElementById("totalgrid").innerHTML += `<div id="day${todayDate.getDay()}" class="day"  >
-            <div id="daytitle">
-                <h5 class="text-white text-center">${day_itostr(todayDate.getDay())}</h5>
-            </div>
-        </div>`;
-        let todayStr = `${todayDate.getFullYear()}-${(todayDate.getMonth()+1 < 10)?"0"+(todayDate.getMonth()+1):todayDate.getMonth()+1}-${(todayDate.getDate()<10)?"0":""}${todayDate.getDate()}`
-        let a = ues.filter(cours => cours.hours.find(hour => hour.day === todayStr));
-        if(a.length !== 0){
-            for(let i=0; i< a.length ; i++){
-                var aa = a[i].hours.filter(cours => cours.day === todayStr);
-                for(let k=0 ; k<aa.length ; k++){ 
-                    document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${aa[k].hour}; opacity: ${(aa[k].nogr)?0.5:1};" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
-                    ${(aa[k].nogr)?'<div class="nogr" style="height: 100%">':''}
-                    <div class="p-2">
-                        <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
-                        <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
-                        ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
-                        ${(aa[k].nogr)?'<p class="card-subtitle mb-2" style="opacity:1">Autre groupe</p>':''}
-                    </div>
-                    ${(aa[k].nogr)?'</div>':''}
-                </div>`;
-                }
-            }
-        }
-    }
-    else{
-        let today = document.getElementById("inputDate").value;
-        let todayDate = getMonday(today);
-        if(todayDate.getDay()<=5){
-            for(let j=0; j<5 ; j++){
-
-                let tomorrow = new Date(todayDate);
-                tomorrow.setDate(tomorrow.getDate()+j);
-                let todayStr = `${tomorrow.getFullYear()}-${(tomorrow.getMonth()+1 < 10)?"0"+(tomorrow.getMonth()+1):tomorrow.getMonth()+1}-${(tomorrow.getDate()<10)?"0":""}${tomorrow.getDate()}`
-
-                
-                let a = ues.filter(cours => cours.hours.find(hour => hour.day === todayStr));
-                if(a.length !== 0){
-                    for(let i=0; i< a.length ; i++){
-                        var aa = a[i].hours.filter(cours => cours.day === todayStr);
-                        for(let k=0 ; k<aa.length ; k++){ 
-                            document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${aa[k].hour}; opacity: ${(aa[k].nogr)?0.5:1};" class="hour card ${(aa[k].cancel)?'bg-dark text-danger':a[i].color}">
-                            ${(aa[k].nogr)?'<div class="nogr" style="height: 100%">':''}
-                            <div class="p-2">
-                                <h5 id="ue" class="mb-2 card-title">${a[i].name}<small class="ml-auto ${(aa[k].cancel)?'text-danger':'text-muted'}">${aa[k].room}</small></h5>
-                                <h6 id="prof" class="card-subtitle mb-2 ${(aa[k].cancel)?'text-danger':'text-muted'}">${a[i].prof}</h6>
-                                ${(aa[k].cancel)?'<p class="card-subtitle mb-2 text-danger">Annulé</p>':''}
-                                ${(aa[k].nogr)?'<p class="card-subtitle mb-2" style="opacity:1">Autre groupe</p>':''}
-                            </div>
-                            ${(aa[k].nogr)?'</div>':''}
-                        </div>`;
-                        }
-                    }
-                }
-            }
-        }
-    }
-}
