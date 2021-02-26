@@ -1,0 +1,8371 @@
+[
+    [],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-07",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-09-08",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-08",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-08",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-09",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-09",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-10",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-10",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-10",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-11",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-11",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-14",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-09-15",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-15",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-15",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-15",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-16",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-16",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-17",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-17",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-09-17",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-18",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-18",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-18",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-18",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-09-22",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-22",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-22",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-23",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-23",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-24",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-09-24",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-09-24",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-25",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-25",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-25",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-09-25",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-09-29",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-29",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-09-29",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-30",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-09-30",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-09-30",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-01",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi H",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-01",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-01",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-10-01",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-02",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-02",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-02",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-02",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-05",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "S Info Ayous",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-05",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-10-06",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-06",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-06",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "amphi 300 ESC-PAU",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-07",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "amphi 600 droit",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-07",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info 26",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-07",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-07",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(255, 255, 255)",
+            "date": "2020-10-07",
+            "debut": [
+                "17",
+                "30"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "19",
+                "00"
+            ],
+            "infostext": [
+                "XXX-Soutenances projets",
+                "Jung J",
+                "Salle S\u00e9minaires IPRA rdc"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-08",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-10-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-09",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-09",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S10",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-09",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-09",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-09",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-12",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-10-13",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-13",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-13",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-13",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-14",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-14",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info 26",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-14",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-15",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-10-15",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-16",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-16",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S10",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-16",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-19",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi H",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-19",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-20",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-10-20",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-20",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-20",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-20",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-21",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-21",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-21",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-10-21",
+            "debut": [
+                "19",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "00"
+            ],
+            "fin": [
+                "20",
+                "00"
+            ],
+            "infostext": [
+                "XXX-Certification Voltaire",
+                "S Info 26",
+                "S Info 28"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-22",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-10-22",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-22",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S25bis",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-10-23",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "Amphi G",
+                "Cours"
+            ]
+        }
+    ],
+    [],
+    [
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-02",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-02",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-11-03",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-03",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-03",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-03",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-03",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-04",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-04",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-05",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-11-05",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-11-06",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-06",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-06",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-06",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-09",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-09",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-11-10",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-10",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-10",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-10",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-10",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-11",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-11",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-11",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-11-11",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-11-12",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-12",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S10",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-12",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-12",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-17",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-11-17",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-17",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-17",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-18",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-18",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-18",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-19",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-19",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "Amphi D",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-11-19",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-11-20",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-20",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S10",
+                "TD"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-11-24",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-24",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-24",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "02",
+                "00"
+            ],
+            "fin": [
+                "19",
+                "20"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi C",
+                "Contr\u00f4le cont"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-25",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-11-25",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Conception d'applic Internet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-11-25",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-26",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-11-26",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-11-27",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Ahmad M",
+                "Lacayrelle A",
+                "Teste A",
+                "Amphi C",
+                "Amphi D",
+                "Amphi G"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-11-27",
+            "debut": [
+                "10",
+                "30"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "00"
+            ],
+            "infostext": [
+                "Logique",
+                "Lacayrelle A",
+                "Amphi C",
+                "Amphi D",
+                "Contr\u00f4le cont"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-27",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-11-27",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Anie",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-12-01",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "S10"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-01",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-02",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-12-03",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-12-03",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils de gestion CMI",
+                "Cencetti A",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-04",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-12-04",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-04",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-04",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info Ayous",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-09",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-12-10",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-12-10",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-11",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-12-11",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "Amphi A",
+                "Amphi D",
+                "EXAMEN"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-11",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info 30",
+                "S Info 31",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-11",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info 30",
+                "S Info 31",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-14",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Anie",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-15",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "S Info Ayous",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 220)",
+            "date": "2020-12-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Logique",
+                "Hameurlain N",
+                "S20",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2020-12-16",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
+                "S17"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-17",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S13",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-17",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info Anie",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(220, 121, 220)",
+            "date": "2020-12-17",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Bases de donn\u00e9es",
+                "Teste A",
+                "S Info Anie",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-12-17",
+            "debut": [
+                "17",
+                "30"
+            ],
+            "duree": [
+                "02",
+                "00"
+            ],
+            "fin": [
+                "19",
+                "30"
+            ],
+            "infostext": [
+                "Graphes",
+                "Ouriachi K",
+                "Amphi C",
+                "Contr\u00f4le cont"
+            ]
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-18",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-01-18",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-01-19",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-01-19",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-01-19",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-01-19",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-01-20",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S11",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-20",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "Amphi F",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-01-21",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-21",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-01-22",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S01",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-01-22",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-22",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-25",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "XXX-Sout projet int\u00e9grateur",
+                "Avram F",
+                "Cariou E",
+                "Gaio M",
+                "Gouard\u00e8res E",
+                "Jung J"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-01-25",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-01-26",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-01-26",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-01-26",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-01-26",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-01-26",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Amphi G",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-01-27",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S11",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-28",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-01-29",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S01",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-01-29",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-01-29",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-01-29",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-01",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-01",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-02",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-02",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-02-02",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-02",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-02",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-02",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-03",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-03",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S11",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-02-04",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-05",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S01",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-05",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-05",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-02-05",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-08",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-08",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-09",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-09",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-02-09",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-09",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-09",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-10",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-10",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S11",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-10",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-10",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-02-11",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-12",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-12",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-12",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S23",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-12",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S23",
+                "TD"
+            ]
+        }
+    ],
+    [],
+    [
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-22",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-22",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-22",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-22",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-23",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-02-23",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-02-23",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-02-23",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-23",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-24",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-02-24",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-02-24",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-25",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S23",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-25",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S23",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-02-26",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-02-26",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-01",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-01",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-01",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-02",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-02",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-03-02",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-02",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-02",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-03",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-03",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-03",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-04",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-04",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S24",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-04",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S24",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-05",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-05",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-05",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-08",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-09",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-09",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-03-09",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-09",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-09",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-10",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-10",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-10",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-11",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-11",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-12",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S01",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-12",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-12",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-12",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-15",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-16",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-03-16",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-16",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-17",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-17",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-17",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-17",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-18",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-18",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-19",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-19",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-19",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-22",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-23",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-23",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-03-23",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-23",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-23",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-23",
+            "debut": [
+                "17",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "18",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-24",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-24",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-24",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-24",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-03-25",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-25",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "03",
+                "20"
+            ],
+            "fin": [
+                "17",
+                "20"
+            ],
+            "infostext": [
+                "Outils pilotage & d\u00e9cision CMI",
+                "Cencetti A",
+                "S12"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-26",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-26",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-26",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-03-26",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-29",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-30",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-03-30",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-03-30",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-30",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-03-30",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-31",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-03-31",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-03-31",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-01",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S12",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-01",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Cariou E",
+                "S12",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-02",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-02",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-04-02",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-02",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-06",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-04-06",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-04-06",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-06",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-06",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-07",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-07",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-07",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-08",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-09",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-09",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-09",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-12",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-13",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-04-13",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-04-13",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-13",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-13",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-14",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-14",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-14",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-15",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-15",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-16",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-16",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "S02",
+                "Cours"
+            ]
+        }
+    ],
+    [],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-26",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-27",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-04-27",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-04-27",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-27",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-27",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-29",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-29",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-30",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-30",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        }
+    ],
+    [
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-05-04",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-05-04",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-05-05",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-05-05",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-05-06",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-05-06",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-05-06",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-05-07",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-05-07",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        }
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+]
