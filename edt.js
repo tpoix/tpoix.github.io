@@ -163,7 +163,7 @@ function fillEDT(data){
                     console.log("aa = " + aa);
                     let infos = "";
                     for(let j=0 ; j< aa.infostext.length ; j++){
-                        infos += `<h5 id="ue">${aa.infostext[j]}</h5>`;
+                        infos += `<h5 ${(j==0)?'':'style="opacity:0.8"'} id="ue">${aa.infostext[j]}</h5>`;
                     }
                     if(aa.date === todayStr){ 
                         document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])}; background-color:${aa.color}" class="hour card">
@@ -196,7 +196,7 @@ function fillEDT(data){
                             console.log("aa = " + aa);
                             let infos = "";
                             for(let j=0 ; j< aa.infostext.length ; j++){
-                                infos += `<h5 id="ue">${aa.infostext[j]}</h5>`;
+                                infos += `<h5 ${(j==0)?'':'style="opacity:0.8"'} id="ue">${aa.infostext[j]}</h5>`;
                             }
                             if(aa.date === todayStr){ 
                                 document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])}; background-color:${aa.color}" class="hour card">
