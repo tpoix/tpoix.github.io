@@ -185,7 +185,7 @@ function fillEDT(data){
                         infos += `<h5 ${(j==0)?'':'style="opacity:0.8"'} id="ue">${aa.infostext[j]}</h5>`;
                     }
                     if(aa.date === todayStr){ 
-                        document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])}; background-color:${aa.color}" class="hour card">
+                        document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])} /span ${duree_tospan(aa.duree[0])}; background-color:${aa.color}" class="hour card">
                         <div style="overflow: auto;" class="p-2">
                             ${infos}
                         </div>
