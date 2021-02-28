@@ -86,6 +86,24 @@ function monCode()
    }
 } 
 
+function typetocolor(x){
+    console.log(x);
+    switch(x){
+        case "TP":
+            return("#ff80c0");
+            break;
+        case "Cours":
+            return("#808000");
+            break;
+        case "TD":
+            return("#80ffff");
+            break;
+        default:
+            return("gray");
+            break;
+    }
+}
+
 
 function hour_torow(x){
     switch(x){
@@ -185,7 +203,7 @@ function fillEDT(data){
                         infos += `<h5 ${(j==0)?'':'style="opacity:0.8"'} id="ue">${aa.infostext[j]}</h5>`;
                     }
                     if(aa.date === todayStr){ 
-                        document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])} /span ${duree_tospan(aa.duree[0])}; background-color:${aa.color}" class="hour card">
+                        document.getElementById(`day${(todayDate.getDay())}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])} /span ${duree_tospan(aa.duree[0])}; background-color:${aa.color}; border: 0; padding: 1px; margin-bottom: 2px; border-right: 10px solid ${typetocolor(aa.infostext[aa.infostext.length-1])}" class="hour card">
                         <div style="overflow: auto;" class="p-2">
                             ${infos}
                         </div>
@@ -218,7 +236,7 @@ function fillEDT(data){
                                 infos += `<h5 ${(j==0)?'':'style="opacity:0.8"'} id="ue">${aa.infostext[j]}</h5>`;
                             }
                             if(aa.date === todayStr){ 
-                                document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])} /span ${duree_tospan(aa.duree[0])}; background-color:${aa.color}" class="hour card">
+                                document.getElementById(`day${j+1}`).innerHTML += `<div style="grid-row: ${hour_torow(aa.debut[0])} /span ${duree_tospan(aa.duree[0])}; background-color:${aa.color}; border: 0; padding: 1px; margin-bottom: 2px; border-right: 10px solid ${typetocolor(aa.infostext[aa.infostext.length-1])}" class="hour card">
                                 <div style="overflow: auto  ;" class="p-2">
                                     ${infos}
                                 </div>
@@ -255,6 +273,8 @@ function main(data) {
          document.getElementById("inputDate").valueAsDate = yesterday;
          changeDate(data);
     })
+    swiper.onUp(function() {return 0;});
+    swiper.onDown(function() {return 0;});
     swiper.run();
 }
 
