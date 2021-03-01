@@ -162,7 +162,7 @@ req.send();
 
 function init(data){
     let today = new Date();
-    document.getElementById("inputDate").value = `${today.getFullYear()}-${(today.getMonth()+1 < 10)?"0":""}${today.getMonth()+1}-${today.getDate()}`;
+    document.getElementById("inputDate").value = `${today.getFullYear()}-${(today.getMonth()+1 < 10)?"0":""}${today.getMonth()+1}-${(today.getDate()+1 < 10)?"0":""}${today.getDate()}`;
     let dateStr = `${today.getDate()} ${month_itostr(today.getMonth())} ${today.getFullYear()}`;
     document.getElementById("date").innerHTML = dateStr;
 
