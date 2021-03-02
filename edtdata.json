@@ -1552,31 +1552,8 @@
     ],
     [
         {
-            "color": "rgb(121, 170, 220)",
-            "date": "2020-10-05",
-            "debut": [
-                "11",
-                "20"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "12",
-                "50"
-            ],
-            "infostext": [
-                "Technologie Orient\u00e9e Objet",
-                "Barbier F",
-                "S Info Anie",
-                "S Info Ayous",
-                "TD"
-            ]
-        },
-        {
             "color": "rgb(246, 246, 221)",
-            "date": "2020-10-05",
+            "date": "2020-10-12",
             "debut": [
                 "15",
                 "40"
@@ -1598,7 +1575,7 @@
         },
         {
             "color": "rgb(246, 221, 233)",
-            "date": "2020-10-06",
+            "date": "2020-10-13",
             "debut": [
                 "09",
                 "40"
@@ -1619,7 +1596,29 @@
         },
         {
             "color": "rgb(121, 170, 220)",
-            "date": "2020-10-06",
+            "date": "2020-10-13",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "Amphi C",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-13",
             "debut": [
                 "14",
                 "00"
@@ -1633,17 +1632,15 @@
                 "30"
             ],
             "infostext": [
-                "Technologie Orient\u00e9e Objet",
-                "Barbier F",
-                "S Info Anie",
-                "S Info Ayous",
-                "S Info Estaing",
-                "TD"
+                "Graphes",
+                "Ouriachi K",
+                "Amphi C",
+                "Cours"
             ]
         },
         {
             "color": "rgb(121, 170, 220)",
-            "date": "2020-10-06",
+            "date": "2020-10-13",
             "debut": [
                 "15",
                 "40"
@@ -1659,13 +1656,13 @@
             "infostext": [
                 "Technologie Orient\u00e9e Objet",
                 "Barbier F",
-                "amphi 300 ESC-PAU",
+                "Amphi D",
                 "Cours"
             ]
         },
         {
-            "color": "rgb(121, 170, 220)",
-            "date": "2020-10-07",
+            "color": "rgb(220, 220, 121)",
+            "date": "2020-10-14",
             "debut": [
                 "08",
                 "00"
@@ -1679,15 +1676,15 @@
                 "30"
             ],
             "infostext": [
-                "Technologie Orient\u00e9e Objet",
+                "Conception d'applic Internet",
                 "Barbier F",
-                "amphi 600 droit",
+                "Amphi C",
                 "Cours"
             ]
         },
         {
             "color": "rgb(220, 220, 121)",
-            "date": "2020-10-07",
+            "date": "2020-10-14",
             "debut": [
                 "09",
                 "40"
@@ -1708,8 +1705,8 @@
             ]
         },
         {
-            "color": "rgb(220, 220, 121)",
-            "date": "2020-10-07",
+            "color": "rgb(246, 246, 221)",
+            "date": "2020-10-14",
             "debut": [
                 "14",
                 "00"
@@ -1723,28 +1720,6 @@
                 "30"
             ],
             "infostext": [
-                "Conception d'applic Internet",
-                "Barbier F",
-                "Amphi G",
-                "Cours"
-            ]
-        },
-        {
-            "color": "rgb(246, 246, 221)",
-            "date": "2020-10-07",
-            "debut": [
-                "15",
-                "40"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "17",
-                "10"
-            ],
-            "infostext": [
                 "Graphes",
                 "Ouriachi K",
                 "Amphi G",
@@ -1752,40 +1727,19 @@
             ]
         },
         {
-            "color": "rgb(255, 255, 255)",
-            "date": "2020-10-07",
-            "debut": [
-                "17",
-                "30"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "19",
-                "00"
-            ],
-            "infostext": [
-                "XXX-Soutenances projets",
-                "Jung J",
-                "Salle S\u00e9minaires IPRA rdc"
-            ]
-        },
-        {
             "color": "rgb(121, 220, 220)",
-            "date": "2020-10-08",
+            "date": "2020-10-15",
             "debut": [
-                "09",
-                "40"
+                "11",
+                "20"
             ],
             "duree": [
                 "01",
                 "30"
             ],
             "fin": [
-                "11",
-                "10"
+                "12",
+                "50"
             ],
             "infostext": [
                 "Logique",
@@ -1796,7 +1750,7 @@
         },
         {
             "color": "rgb(180, 180, 180)",
-            "date": "2020-10-08",
+            "date": "2020-10-15",
             "debut": [
                 "14",
                 "00"
@@ -1810,14 +1764,36 @@
                 "20"
             ],
             "infostext": [
-                "Pr\u00e9pa \u00e0 l'international CMI",
-                "Smith L",
+                "Outils de gestion CMI",
+                "Cencetti A",
                 "S17"
             ]
         },
         {
+            "color": "rgb(121, 170, 220)",
+            "date": "2020-10-16",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Technologie Orient\u00e9e Objet",
+                "Barbier F",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
             "color": "rgb(220, 121, 220)",
-            "date": "2020-10-09",
+            "date": "2020-10-16",
             "debut": [
                 "09",
                 "40"
@@ -1839,7 +1815,7 @@
         },
         {
             "color": "rgb(121, 220, 220)",
-            "date": "2020-10-09",
+            "date": "2020-10-16",
             "debut": [
                 "11",
                 "20"
@@ -1861,7 +1837,7 @@
         },
         {
             "color": "rgb(121, 170, 220)",
-            "date": "2020-10-09",
+            "date": "2020-10-16",
             "debut": [
                 "14",
                 "00"
@@ -1878,51 +1854,7 @@
                 "Technologie Orient\u00e9e Objet",
                 "Barbier F",
                 "S Info Ayous",
-                "TD"
-            ]
-        },
-        {
-            "color": "rgb(220, 121, 220)",
-            "date": "2020-10-09",
-            "debut": [
-                "15",
-                "40"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "17",
-                "10"
-            ],
-            "infostext": [
-                "Bases de donn\u00e9es",
-                "Teste A",
-                "S13",
-                "TD"
-            ]
-        },
-        {
-            "color": "rgb(246, 246, 221)",
-            "date": "2020-10-09",
-            "debut": [
-                "17",
-                "20"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "18",
-                "50"
-            ],
-            "infostext": [
-                "Graphes",
-                "Ouriachi K",
-                "Amphi G",
-                "Cours"
+                "TP"
             ]
         }
     ],
