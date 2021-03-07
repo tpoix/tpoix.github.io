@@ -3605,29 +3605,8 @@
     ],
     [
         {
-            "color": "rgb(246, 221, 233)",
-            "date": "2020-12-01",
-            "debut": [
-                "09",
-                "40"
-            ],
-            "duree": [
-                "01",
-                "30"
-            ],
-            "fin": [
-                "11",
-                "10"
-            ],
-            "infostext": [
-                "Anglais LV1 S5",
-                "De Nodrest S",
-                "S10"
-            ]
-        },
-        {
             "color": "rgb(246, 246, 221)",
-            "date": "2020-12-01",
+            "date": "2020-12-08",
             "debut": [
                 "14",
                 "00"
@@ -3643,13 +3622,14 @@
             "infostext": [
                 "Graphes",
                 "Ouriachi K",
+                "S Info Ayous",
                 "S Info Estaing",
                 "TP"
             ]
         },
         {
             "color": "rgb(246, 246, 221)",
-            "date": "2020-12-02",
+            "date": "2020-12-09",
             "debut": [
                 "14",
                 "00"
@@ -3671,7 +3651,7 @@
         },
         {
             "color": "rgb(121, 220, 220)",
-            "date": "2020-12-03",
+            "date": "2020-12-10",
             "debut": [
                 "09",
                 "40"
@@ -3693,7 +3673,7 @@
         },
         {
             "color": "rgb(180, 180, 180)",
-            "date": "2020-12-03",
+            "date": "2020-12-10",
             "debut": [
                 "14",
                 "00"
@@ -3707,14 +3687,14 @@
                 "20"
             ],
             "infostext": [
-                "Outils de gestion CMI",
-                "Cencetti A",
+                "Pr\u00e9pa \u00e0 l'international CMI",
+                "Smith L",
                 "S17"
             ]
         },
         {
             "color": "rgb(220, 121, 220)",
-            "date": "2020-12-04",
+            "date": "2020-12-11",
             "debut": [
                 "09",
                 "40"
@@ -3735,8 +3715,8 @@
             ]
         },
         {
-            "color": "rgb(121, 220, 220)",
-            "date": "2020-12-04",
+            "color": "rgb(246, 221, 233)",
+            "date": "2020-12-11",
             "debut": [
                 "11",
                 "20"
@@ -3750,14 +3730,16 @@
                 "50"
             ],
             "infostext": [
-                "Logique",
-                "Hameurlain N",
-                "TD"
+                "Anglais LV1 S5",
+                "De Nodrest S",
+                "Amphi A",
+                "Amphi D",
+                "EXAMEN"
             ]
         },
         {
             "color": "rgb(220, 121, 220)",
-            "date": "2020-12-04",
+            "date": "2020-12-11",
             "debut": [
                 "14",
                 "00"
@@ -3773,13 +3755,14 @@
             "infostext": [
                 "Bases de donn\u00e9es",
                 "Teste A",
-                "S Info Ayous",
+                "S Info 30",
+                "S Info 31",
                 "TP"
             ]
         },
         {
             "color": "rgb(220, 121, 220)",
-            "date": "2020-12-04",
+            "date": "2020-12-11",
             "debut": [
                 "15",
                 "40"
@@ -3795,7 +3778,8 @@
             "infostext": [
                 "Bases de donn\u00e9es",
                 "Teste A",
-                "S Info Ayous",
+                "S Info 30",
+                "S Info 31",
                 "TP"
             ]
         }
@@ -7873,7 +7857,291 @@
         }
     ],
     [],
-    [],
+    [
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-26",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-27",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "Cours"
+            ]
+        },
+        {
+            "color": "rgb(237, 204, 188)",
+            "date": "2021-04-27",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Th\u00e9orie des langages et compi",
+                "Hameurlain N",
+                "S25",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 233)",
+            "date": "2021-04-27",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Anglais LV1 S6",
+                "De Nodrest S",
+                "S10",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-27",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "S08",
+                "TD"
+            ]
+        },
+        {
+            "color": "rgb(121, 220, 121)",
+            "date": "2021-04-27",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Conceptions des syst d'informa",
+                "Teste A",
+                "Salle 11 STID",
+                "Salle 15 STID",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "08",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "09",
+                "30"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Ayous",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 246, 221)",
+            "date": "2021-04-28",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes d'exploitation",
+                "Pierre S",
+                "S Info Anie",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(121, 170, 220)",
+            "date": "2021-04-29",
+            "debut": [
+                "11",
+                "20"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "12",
+                "50"
+            ],
+            "infostext": [
+                "Syst\u00e8mes distribu\u00e9s",
+                "Pierre S",
+                "S Info Estaing",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-29",
+            "debut": [
+                "14",
+                "00"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "15",
+                "30"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        },
+        {
+            "color": "rgb(246, 221, 221)",
+            "date": "2021-04-30",
+            "debut": [
+                "09",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "11",
+                "10"
+            ],
+            "infostext": [
+                "Recherche op\u00e9rationnelle",
+                "Ouriachi K",
+                "S Info Anie",
+                "CTD"
+            ]
+        },
+        {
+            "color": "rgb(180, 180, 180)",
+            "date": "2021-04-30",
+            "debut": [
+                "15",
+                "40"
+            ],
+            "duree": [
+                "01",
+                "30"
+            ],
+            "fin": [
+                "17",
+                "10"
+            ],
+            "infostext": [
+                "Env Prog & Atel GL",
+                "Ouriachi K",
+                "TP"
+            ]
+        }
+    ],
     [
         {
             "color": "rgb(121, 220, 121)",
